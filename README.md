@@ -1,3 +1,5 @@
+> **Moved.** This repo now lives at [xbill9/jax-dev/tpu-jax-v6e1-26b-q4_0](https://github.com/xbill9/jax-dev/tree/main/tpu-jax-v6e1-26b-q4_0), with its full history. This copy is archived and read-only.
+
 # Gemma 4 E2B QAT on a Single TPU with Pure JAX
 
 This repository is an experimental, inspectable inference path for
